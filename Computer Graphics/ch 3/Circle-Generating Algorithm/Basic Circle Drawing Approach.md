@@ -1,11 +1,13 @@
 
 ### **Basic Circle Drawing Approach**
 
-- We can calculate points on the circle by stepping along the x-axis from xc−rx_c - r to xc+rx_c + r and calculating the corresponding y-values.
+- We can calculate points on the circle by stepping along the x-axis from $x_c - r$ to $x_c + r$ and calculating the corresponding y-values.
     
 - The formula used:
     
-    y=yc+r2−(x−xc)2y = y_c + \sqrt{r^2 - (x - x_c)^2}
+$$
+    y = y_c + \sqrt{r^2 - (x - x_c)^2}
+$$
 - **Problems with this approach:**
     
     - It requires a **lot of calculations** (square roots).

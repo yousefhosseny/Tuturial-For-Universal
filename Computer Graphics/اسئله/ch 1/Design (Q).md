@@ -12,18 +12,6 @@ Computer-Aided Design (CAD) is the use of computer graphics to create, modify, a
 
 ---
 
-### **2. Name three fields where CAD is used. | اذكر ثلاثة مجالات يُستخدم فيها CAD.**
-
-✅ **Answer | الإجابة:**  
-1️⃣ Architecture (e.g., designing buildings).  
-2️⃣ Mechanical engineering (e.g., designing car parts).  
-3️⃣ Electronics (e.g., designing circuits and chips).  
-✅ **1️⃣ الهندسة المعمارية (مثل تصميم المباني).**  
-✅ **2️⃣ الهندسة الميكانيكية (مثل تصميم أجزاء السيارات).**  
-✅ **3️⃣ الإلكترونيات (مثل تصميم الدوائر والشرائح الإلكترونية).**
-
----
-
 ## **✅ True or False Questions | أسئلة صح أم خطأ**
 
 ### **3. CAD is only used for designing buildings. | يُستخدم CAD فقط في تصميم المباني.**
@@ -40,7 +28,7 @@ Computer-Aided Design (CAD) is the use of computer graphics to create, modify, a
 
 ---
 
-## **📌 Compare Questions | أسئلة المقارنة**
+# **📌 Compare Questions | أسئلة المقارنة**
 
 ### **5. Compare traditional design methods and CAD. | قارن بين طرق التصميم التقليدية وCAD.**
 
@@ -122,13 +110,6 @@ It allows engineers to create and simulate circuit layouts before manufacturing,
 
 ✅ **Answer | الإجابة:** The ability to test and modify designs before production.  
 ✅ **إمكانية اختبار وتعديل التصميمات قبل الإنتاج.**
-
----
-
-### **12. A common software used for CAD is ___________. | أحد البرامج الشائعة المستخدمة في CAD هو ___________.**
-
-✅ **Answer | الإجابة:** AutoCAD.  
-✅ **أوتوكاد (AutoCAD).**
 
 ---
 

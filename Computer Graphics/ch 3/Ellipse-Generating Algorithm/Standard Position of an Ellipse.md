@@ -3,18 +3,18 @@
 If the ellipse is aligned with the x and y axes (major axis along x-axis and minor axis along y-axis), its equation is:
 
 $$
-(x−xc)2rx2+(y−yc)2ry2=1\frac{(x - xc)^2}{rx^2} + \frac{(y - yc)^2}{ry^2} = 1
+\frac{(x - xc)^2}{rx^2} + \frac{(y - yc)^2}{ry^2} = 1
 $$
 
 where:
 
-- (xc,yc)(xc, yc) is the center of the ellipse,
+-$(x_c,y_c)$ is the center of the ellipse,
     
-- rxrx is the **semi-major axis** length,
+- $r_x$ is the **semi-major axis** length,
     
-- ryry is the **semi-minor axis** length.
+-$r_y$ is the **semi-minor axis** length.
     
-
+![[Pasted image 20250403020006.png]]
 ##### شرح بالعربي
 
 لو كان الإهليلج محاذيًا لمحوري x و y بحيث يكون المحور الأكبر على محور x والمحور الأصغر على محور y، فإن معادلته تكون:
@@ -25,11 +25,11 @@ $$
 
 حيث:
 
-- (xc,yc)(xc, yc) هو مركز الإهليلج.
+- $(x_c,y_c$) هو مركز الإهليلج.
     
-- rxrx هو نصف طول المحور الأكبر.
+- $r_x$ هو نصف طول المحور الأكبر.
     
-- ryry هو نصف طول المحور الأصغر.
+- $r_y$ هو نصف طول المحور الأصغر.
     
 
 ##### الزتونة

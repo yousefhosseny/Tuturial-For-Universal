@@ -32,14 +32,6 @@ Simulation is the use of computer-generated images and models to mimic real-worl
 
 ---
 
-### **4. Computer animation and simulation are completely unrelated. | الرسوم المتحركة والمحاكاة الحاسوبية غير مرتبطتين تمامًا.**
-
-❌ **False | خطأ**  
-(Animation is often used in simulations to create realistic motion and interactions.)  
-❌ **تُستخدم الرسوم المتحركة في المحاكاة لإنشاء حركة وتفاعلات واقعية.**
-
----
-
 ## **📌 Compare Questions | أسئلة المقارنة**
 
 ### **5. Compare simulation and animation. | قارن بين المحاكاة والرسوم المتحركة.**
@@ -62,21 +54,6 @@ Simulation is the use of computer-generated images and models to mimic real-worl
 ✅ **Answer | الإجابة:**  
 Because it allows users to interact with the simulation as if it were real, making training and testing more effective.  
 ✅ **لأنها تسمح للمستخدمين بالتفاعل مع المحاكاة كما لو كانت واقعية، مما يجعل التدريب والاختبار أكثر فاعلية.**
-
----
-
-### **7. Arrange the following steps in an animation process in the correct order: | رتب الخطوات التالية في عملية الرسوم المتحركة بالترتيب الصحيح:**
-
-a) Rendering the final frames | تصيير الإطارات النهائية  
-b) Creating keyframes | إنشاء الإطارات الرئيسية  
-c) Designing the 3D models | تصميم النماذج ثلاثية الأبعاد  
-d) Adding motion effects | إضافة تأثيرات الحركة
-
-✅ **Answer | الإجابة:**  
-1️⃣ **Designing the 3D models | تصميم النماذج ثلاثية الأبعاد**  
-2️⃣ **Creating keyframes | إنشاء الإطارات الرئيسية**  
-3️⃣ **Adding motion effects | إضافة تأثيرات الحركة**  
-4️⃣ **Rendering the final frames | تصيير الإطارات النهائية**
 
 ---
 

@@ -2,7 +2,7 @@
 
 - An ellipse is symmetric **across quadrants**, meaning we only need to compute points for one quadrant and reflect them.
     
-- However, unlike a circle, an ellipse **is not symmetric within a quadrant**, meaning we need extra calculations for different sections.
+- However, unlike a circle, an ellipse **is not symmetric with in a quadrant**, meaning we need extra calculations for different sections.
     
 
 ##### شرح بالعربي

@@ -6,7 +6,7 @@
     
 - A general function can be used to generate both circular and elliptical shapes.
     
-- A circle is defined as a set of points at a fixed distance rr from a center point (xc,yc)(x_c, y_c).
+- A circle is defined as a set of points at a fixed distance r from a center point (xc,yc).
     
 
 #### **شرح بالعربي**
@@ -17,7 +17,7 @@
     
 - يمكن استخدام خوارزمية واحدة لرسم الدوائر والأشكال البيضاوية.
     
-- تعريف الدائرة هو أنها مجموعة من النقاط التي تبعد نفس المسافة rr عن نقطة مركزية (xc,yc)(x_c, y_c).
+- تعريف الدائرة هو أنها مجموعة من النقاط التي تبعد نفس المسافة r عن نقطة مركزية (xc,yc)
     
 
 #### **الزتونة**

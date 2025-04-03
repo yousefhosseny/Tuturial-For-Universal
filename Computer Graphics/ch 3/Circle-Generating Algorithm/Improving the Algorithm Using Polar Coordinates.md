@@ -3,7 +3,7 @@
 - Instead of using Cartesian coordinates, we use **polar coordinates**:
     
 $$
-    x=xc+rcos⁡(θ)x = x_c + r \cos(\theta) y=yc+rsin⁡(θ)y = y_c + r \sin(\theta)
+     x_c + r \cos(\theta)  = y_c + r \sin(\theta)
 $$
 - By using a fixed step size for θ\theta, we can generate evenly spaced points.
     

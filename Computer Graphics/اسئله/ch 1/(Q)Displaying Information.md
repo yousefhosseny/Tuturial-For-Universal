@@ -119,11 +119,4 @@ By converting raw data into visual formats like graphs, 3D models, and simulatio
 
 ---
 
-### **12. One example of scientific visualization is ___________. | أحد أمثلة التصور العلمي هو ___________.**
-
-✅ **Answer | الإجابة:** Modeling fluid movement in pipes.  
-✅ **نمذجة حركة السوائل داخل الأنابيب.**
-
----
-
 This **set of 12 questions** in **English and Arabic** should help you prepare effectively for your exam. Let me know if you need more questions! 🚀

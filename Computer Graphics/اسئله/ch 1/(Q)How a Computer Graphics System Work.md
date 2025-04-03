@@ -68,23 +68,6 @@ The frame buffer **stores the processed image** before displaying it on the scre
 
 ---
 
-### **7. Arrange the following components in the order they process graphics data. | رتب المكونات التالية حسب ترتيب معالجة بيانات الرسوميات:**
-
-a) GPU processes image | معالجة الصورة بواسطة معالج الرسوميات  
-b) Input device sends command | يرسل جهاز الإدخال الأوامر  
-c) CPU executes instructions | ينفذ المعالج المركزي الأوامر  
-d) Frame buffer stores the image | يخزن مخزن الإطارات الصورة  
-e) Monitor displays final image | تعرض الشاشة الصورة النهائية
-
-✅ **Answer | الإجابة:**  
-1️⃣ **Input device sends command** | يرسل جهاز الإدخال الأوامر  
-2️⃣ **CPU executes instructions** | ينفذ المعالج المركزي الأوامر  
-3️⃣ **GPU processes image** | معالجة الصورة بواسطة معالج الرسوميات  
-4️⃣ **Frame buffer stores the image** | يخزن مخزن الإطارات الصورة  
-5️⃣ **Monitor displays final image** | تعرض الشاشة الصورة النهائية
-
----
-
 ## **📌 Multiple Choice Questions | أسئلة الاختيار من متعدد**
 
 ### **8. Which component is responsible for quickly rendering images? | أي مكون مسؤول عن عرض الصور بسرعة؟**

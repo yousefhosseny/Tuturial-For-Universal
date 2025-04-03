@@ -63,21 +63,6 @@ A GPU is **designed for parallel processing**, meaning it can handle thousands o
 
 ---
 
-### **7. Arrange the following components based on their role in processing graphics data. | رتب المكونات التالية حسب دورها في معالجة بيانات الرسوميات:**
-
-a) CPU processes general commands | يعالج المعالج المركزي الأوامر العامة  
-b) GPU accelerates image rendering | يسرّع معالج الرسوميات عملية عرض الصور  
-c) Frame buffer stores final image | يخزن مخزن الإطارات الصورة النهائية  
-d) Monitor displays processed image | تعرض الشاشة الصورة المعالجة
-
-✅ **Answer | الإجابة:**  
-1️⃣ **CPU processes general commands** | يعالج المعالج المركزي الأوامر العامة  
-2️⃣ **GPU accelerates image rendering** | يسرّع معالج الرسوميات عملية عرض الصور  
-3️⃣ **Frame buffer stores final image** | يخزن مخزن الإطارات الصورة النهائية  
-4️⃣ **Monitor displays processed image** | تعرض الشاشة الصورة المعالجة
-
----
-
 ## **📌 Multiple Choice Questions | أسئلة الاختيار من متعدد**
 
 ### **8. What is the main reason GPUs are faster than CPUs for graphics tasks? | ما السبب الرئيسي لكون معالجات الرسوميات (GPU) أسرع من المعالجات المركزية (CPU) في المهام الرسومية؟**
