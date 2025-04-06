@@ -1,19 +1,23 @@
-## Job Satisfaction Is…
+# Job Satisfaction Is…
 
-**Explanation**: Job satisfaction is how you feel about your job—do you like it or not? It’s an emotional thing, like if your heart says “yay” or “ugh” when you think about work. In simple words, it’s how much you enjoy your job, from the tasks to the people to the paycheck.
+ Job satisfaction is how you feel about your job—do you like it or not? It’s an emotional thing, like if your heart says “yay” or “ugh” when you think about work. In simple words, it’s how much you enjoy your job, from the tasks to the people to the paycheck.
 
-**Deeper Bit**: It’s not just one thing—it’s a mix of feelings about different parts of your job, like your boss, your work, or even the coffee in the break room. If most of those feelings are good, you’re satisfied. If they’re bad, you’re not. It’s like a happiness meter for work.
+### **Deeper Bit**: 
+It’s not just one thing—it’s a mix of feelings about different parts of your job, like your boss, your work, or even the coffee in the break room. If most of those feelings are good, you’re satisfied. If they’re bad, you’re not. It’s like a happiness meter for work.
 
-**الشرح بالعربي**: الرضا عن الشغل هو إحساسك ناحية شغلك—بتحبه ولا لأ؟ ده حاجة عاطفية، زي لما قلبك يقول "ياي" أو "أوف" لما تفتكر الشغل. بكلمات بسيطة، هو قد إيه بتستمتع بشغلك، من المهام للناس للفلوس.  
-**أعمق شوية**: مش حاجة واحدة بس، ده مزيج إحساسك عن أجزاء مختلفة في الشغل، زي مديرك أو شغلك أو حتى القهوة في غرفة الراحة. لو معظم الإحساسات دي حلوة، يبقى إنت راضي. لو وحشة، يبقى مش راضي. زي مقياس السعادة للشغل.
+## **الشرح بالعربي**: 
+الرضا عن الشغل هو إحساسك ناحية شغلك—بتحبه ولا لأ؟ ده حاجة عاطفية، زي لما قلبك يقول "ياي" أو "أوف" لما تفتكر الشغل. بكلمات بسيطة، هو قد إيه بتستمتع بشغلك، من المهام للناس للفلوس.  
+### **أعمق شوية**: 
+مش حاجة واحدة بس، ده مزيج إحساسك عن أجزاء مختلفة في الشغل، زي مديرك أو شغلك أو حتى القهوة في غرفة الراحة. لو معظم الإحساسات دي حلوة، يبقى إنت راضي. لو وحشة، يبقى مش راضي. زي مقياس السعادة للشغل.
 
-**الزتونة**: الرضا عن الشغل هو إحساسك قد إيه مبسوط بشغلك من كل جوانبه.
+## **الزتونة**: 
+الرضا عن الشغل هو إحساسك قد إيه مبسوط بشغلك من كل جوانبه.
 
 ---
 
-## Models Job Satisfaction (Part 1: The Models)
+# Models Job Satisfaction (Part 1: The Models)
 
-**Explanation**: This part says there are five ways (or “models”) to figure out why you’re happy or unhappy at work. Each one is like a different reason you might like your job:
+ This part says there are five ways (or “models”) to figure out why you’re happy or unhappy at work. Each one is like a different reason you might like your job:
 
 1. **Need Fulfillment**: Are you getting what you need—like money, friends, or a purpose? If yes, you’re happy.
 2. **Met Expectations**: Did the job turn out the way you hoped—like good hours or fun tasks? If it matches what you expected, you’re satisfied.
@@ -23,7 +27,8 @@
 
 **Deeper Bit**: These are like five puzzle pieces. If they all fit together—your needs are met, your hopes come true, the job matches your values, it’s fair, and you’re a cheerful person—you’re super satisfied. If even one piece is missing (like unfair pay), the whole puzzle feels off.
 
-**الشرح بالعربي**: الجزء ده بيقول في خمس طرق (أو "نماذج") عشان تعرف ليه مبسوط أو زعلان في شغلك. كل واحدة زي سبب مختلف تحب شغلك عشانها:
+## **الشرح بالعربي**:
+الجزء ده بيقول في خمس طرق (أو "نماذج") عشان تعرف ليه مبسوط أو زعلان في شغلك. كل واحدة زي سبب مختلف تحب شغلك عشانها:
 
 1. **تلبية الاحتياجات**: بتاخد اللي محتاجه زي فلوس أو أصحاب أو هدف؟ لو آه، مبسوط.
 2. **تحقيق التوقعات**: الشغل طلع زي ما كنت متخيله زي مواعيد حلوة أو مهام ممتعة؟ لو زي ما توقعت، راضي.
@@ -32,13 +37,14 @@
 5. **الشخصية/الجينات**: إنت شخص فرحان من طبعك؟ في ناس بتحب الشغل أكتر عشان شخصيتهم أو حتى جيناتهم.  
     **أعمق شوية**: دول زي خمس قطع بوزل. لو اتظبطوا مع بعض—احتياجاتك موجودة، أحلامك اتحققت، الشغل زي قيمك، عادل، وإنت شخص مبسوط—هتبقى راضي جدًا. لو قطعة واحدة ناقصة (زي فلوس مش عادلة)، البوزل كله هيحس غلط.
 
-**الزتونة**: الرضا بيجي من خمس حاجات: احتياجاتك، توقعاتك، قيمك، العدل، وشخصيتك.
+## **الزتونة**: 
+الرضا بيجي من خمس حاجات: احتياجاتك، توقعاتك، قيمك، العدل، وشخصيتك.
 
 ---
 
-## Models Job Satisfaction (Part 2: How Management Can Boost It)
+# Models Job Satisfaction (Part 2: How Management Can Boost It)
 
-**Explanation**: This part tells bosses how to make you happy at work using those five models:
+This part tells bosses how to make you happy at work using those five models:
 
 1. **Need Fulfillment**: Figure out what you need (like more money or breaks) and give it to you.
 2. **Met Expectations**: Make sure the job matches what you were promised—like if they said it’d be fun, make it fun.
@@ -48,7 +54,8 @@
 
 **Deeper Bit**: It’s like a boss being a good coach. They learn what you want, keep their promises, match the game to your style, play fair, and pick teammates who love the game. If they do this, you’ll love playing (working) every day.
 
-**الشرح بالعربي**: الجزء ده بيقول للمديرين إزاي يخلوك مبسوط في الشغل باستخدام الخمس نماذج:
+## **الشرح بالعربي**:
+الجزء ده بيقول للمديرين إزاي يخلوك مبسوط في الشغل باستخدام الخمس نماذج:
 
 1. **تلبية الاحتياجات**: يعرفوا إنت محتاج إيه (زي فلوس أكتر أو راحة) ويدوهولك.
 2. **تحقيق التوقعات**: يخلوا الشغل زي ما وعدوك—لو قالوا هيبقى ممتع، يخلوه ممتع.
@@ -57,4 +64,5 @@
 5. **الشخصية/الجينات**: يجيبوا ناس فرحانين من طبعهم أو مناسبين للشغل، لأن في ناس بترضى أكتر مهما حصل.  
     **أعمق شوية**: زي لما المدير يبقى كوتش كويس. بيعرف إنت عايز إيه، بيحافظ على وعوده، بيظبط اللعبة على طريقتك، بيلعب عدل، ويختار لاعيبة بتحب اللعب. لو عمل كده، هتحب تلعب (تشتغل) كل يوم.
 
-**الزتونة**: المديرين يزودوا الرضا بمعرفة احتياجاتك، تحقيق وعدك، موافقة قيمك، العدل، واختيار شخصيات مناسبة.
+## **الزتونة**: 
+المديرين يزودوا الرضا بمعرفة احتياجاتك، تحقيق وعدك، موافقة قيمك، العدل، واختيار شخصيات مناسبة.

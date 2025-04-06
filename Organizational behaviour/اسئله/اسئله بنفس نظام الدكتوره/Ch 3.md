@@ -1,6 +1,3 @@
-Here are the 15 questions with their answers provided directly underneath each one, based on the content from the chapter excerpt you shared:
-
----
 
 ### Question 1
 Sarah is a team leader who wants to understand how her personal attributes affect her job performance. According to the chapter, which of the following is influenced by individual differences?  
@@ -8,8 +5,10 @@ A. Work approach
 B. Problem-solving  
 C. Interactions with co-workers  
 D. Conflict management  
-E. All of the above  
-**Answer: E. All of the above**  
+E. All of the above
+
+### **Answer: 
+E. All of the above**  
 *Explanation: The text states that individual differences influence how we approach work, solving problems, conflict, and interactions with co-workers.*
 
 ---
@@ -21,7 +20,8 @@ B. Practical intelligence
 C. Logical-mathematical intelligence  
 D. Cognitive ability  
 E. Emotional stability  
-**Answer: B. Practical intelligence**  
+### **Answer:
+B. Practical intelligence**  
 *Explanation: Practical intelligence is defined as the ability to solve everyday problems using experience, which fits Lisa’s situation.*
 
 ---
@@ -33,7 +33,8 @@ B. Agreeableness
 C. Conscientiousness  
 D. Openness to experience  
 E. Emotional stability  
-**Answer: C. Conscientiousness**  
+### **Answer: 
+C. Conscientiousness**  
 *Explanation: Conscientiousness includes traits like dependability and achievement orientation, and the text notes it has the strongest positive effect on performance.*
 
 ---
@@ -181,5 +182,3 @@ E. To focus solely on managers’ performance
 *Explanation: The framework is designed to organize and apply OB concepts, including individual differences, as per the text.*
 
 ---
-
-Let me know if you need further clarification or additional questions!
