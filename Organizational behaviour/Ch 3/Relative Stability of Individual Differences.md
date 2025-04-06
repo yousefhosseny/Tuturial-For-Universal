@@ -1,6 +1,6 @@
 ![[Pasted image 20250405191520.png]]
 ## Part 1: Relatively Fixed vs. Relatively Flexible
- This part asks which parts of you managers can change. Some things about you are *fixed* (hard to change), and some are *flexible* (easier to change). Managers can’t redo your whole self, but they can tweak some stuff to help you work better.
+ This part asks which parts of you managers can change. Some things about you are ==*fixed* (hard to change)==, and some are ==*flexible* (easier to change)==. Managers can’t redo your whole self, but they can tweak some stuff to help you work better.
 
 ### **Deeper Bit**: 
 It’s like a toy robot. The body (fixed stuff) is set—like how tall you are—but the buttons (flexible stuff) can be pushed to make it move differently. Managers figure out what they can push to get you going, not rebuild you from scratch.
