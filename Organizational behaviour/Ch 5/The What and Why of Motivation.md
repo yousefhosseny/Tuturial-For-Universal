@@ -1,6 +1,6 @@
 ### The What and Why of Motivation
 
-**Explanation**: Motivation is the push inside your head that controls how you act or think—it’s about where you aim (direction), how hard you try (intensity), and how long you keep going (persistence). It’s like the gas in your car that gets you moving and keeps you on track.
+**Explanation**: ==Motivation is the push inside your head== that controls how you act or think—it’s about where you aim (direction), how hard you try (intensity), and how long you keep going (persistence). It’s like the gas in your car that gets you moving and keeps you on track.
 
 **Deeper Bit**: It’s like an inner engine. If you’re motivated, you focus on a goal (direction), put in big effort (intensity), and don’t quit (persistence). Without it, you’re stuck—no results, no progress. It’s what turns ideas into action at work or anywhere.
 

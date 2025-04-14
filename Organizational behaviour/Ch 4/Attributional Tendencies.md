@@ -17,19 +17,3 @@
 
 ---
 
-### Part 2: Managerial Applications and Implications
-
-**Explanation**: This part shows how these biases affect bosses and workers:
-
-- **Managers**: If they always blame workers’ personalities (internal causes) instead of situations—like thinking “He’s lazy” not “The tool broke”—they might punish or fix the wrong thing, like yelling instead of fixing tools.
-- **Employees**: How you explain your own work changes everything. If you think “I did great because I’m awesome,” you stay motivated and confident. If you think “I failed because I’m dumb,” you lose drive and feel bad.
-
-**Deeper Bit**: It’s like a chain reaction. A manager’s quick blame can spark bad moves—like firing someone good over a one-time mess-up—because they miss the real issue. For you, believing in yourself keeps the fire going, but doubting yourself puts it out—your story shapes your next step.
-
-**الشرح بالعربي**: الجزء ده بيوري إزاي التحيزات دي بتأثر على المديرين والعمال:
-
-- **المديرين**: لو دايمًا بيلوموا شخصية العمال (أسباب داخلية) بدل الظروف—زي إنهم يقولوا "ده كسلان" مش "العدة اتكسرت"—ممكن يعاقبوا أو يصلحوا حاجة غلط، زي إنهم يزعقوا بدل ما يصلحوا العدة.
-- **العمال**: إزاي بتفسر شغلك بيغير كل حاجة. لو بتقول "أنا عملت حلو عشان أنا عالي"، بتفضل متحمس وواثق. لو بتقول "أنا فشلت عشان أنا غبي"، بتفقد الحماس وتحس وحش.  
-    **أعمق شوية**: زي سلسلة تفاعل. لوم المدير السريع ممكن يولد حركات غلط—زي طرد حد كويس عشان غلطة مرة واحدة—لأنهم مش شايفين المشكلة الحقيقية. بالنسبة ليك، إيمانك بنفسك بيخليك مكمل، لكن شكك في نفسك بيطفيك—قصتك بتحدد خطوتك الجاية.
-
-**الزتونة**: تحيز المديرين للأسباب الداخلية بيفسد تصرفاتهم، وتفسيرك لنفسك بيأثر على حماسك وثقتك.

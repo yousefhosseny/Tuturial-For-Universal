@@ -3,10 +3,10 @@
 - **Simple Idea**: There are four steps to figure out if a project makes money sense.
 - **Deeper Look**:
     - These steps help decide if the project’s worth the cash:
-        1. **Identify Costs and Benefits**: List what you’ll spend and gain.
-        2. **Assign Values**: Put dollar amounts on those costs and gains.
-        3. **Determine Cash Flow**: Guess how money will move in and out over time.
-        4. **Assess Economic Value**: Check if it pays off using ROI (profit rate), BEP (break-even time), and NPV (today’s value).
+        1. ==**Identify Costs and Benefits**:== List what you’ll spend and gain.
+        2. ==**Assign Values**:== Put dollar amounts on those costs and gains.
+        3. ==**Determine Cash Flow**:== Guess how money will move in and out over time.
+        4. ==**Assess Economic Value**:== Check if it pays off using ROI (profit rate), BEP (break-even time), and NPV (today’s value).
     - It’s like planning a bake sale: figure out costs, price cookies, track sales, and see if you’ll profit.
 
 **الترجمة بالعربي**:

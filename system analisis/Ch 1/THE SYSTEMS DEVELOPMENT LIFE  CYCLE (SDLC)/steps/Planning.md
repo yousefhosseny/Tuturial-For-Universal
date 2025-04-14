@@ -1,4 +1,4 @@
-### 2. Planning Phase
+### 1. Planning Phase
 
 - **Simple Idea**: Planning is figuring out why we need the system and how to start making it.
 - **Deeper Look**:

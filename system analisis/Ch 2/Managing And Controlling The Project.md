@@ -1,6 +1,6 @@
 ### Managing and Controlling the Project
 
-- **Simple Idea**: Running a project is about balancing size, time, and cost.
+- **Simple Idea**: ==Running a project is about balancing size, time, and cost.==
 - **Deeper Look**:
     - Project management is a mix of science and art—juggling **size** (how big the system is), **time** (how long it takes), and **cost** (how much it costs).
     - You trade one for the others—like a bigger system might take longer or cost more.

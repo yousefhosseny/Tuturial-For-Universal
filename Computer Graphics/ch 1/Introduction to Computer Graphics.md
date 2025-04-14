@@ -1,6 +1,6 @@
 # **Computer Graphics – الرسوميات الحاسوبية**
 
-Computer graphics is all about creating pictures using a computer. These pictures can be simple, like a few lines on a screen, or complex, like realistic photos. The field started 50 years ago when computers could only show basic lines on old screens **(CRT monitors)**. Today, computers can create images so real that they look like actual photographs.
+Computer graphics is all about ==creating pictures== using a computer. These pictures can be simple, like a few lines on a screen, or complex, like realistic photos. The field ==started 50== years ago when computers could ==only show basic lines== on old screens ==**(CRT monitors)**==. Today, computers can create images so real that they look like actual photographs.
 
 # **الرسوميات الحاسوبية**
 

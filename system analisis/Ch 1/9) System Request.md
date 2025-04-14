@@ -24,8 +24,8 @@ Here’s a deep yet simple explanation of the section titled "System Request" fr
 ### 2. Business Requirements and Business Value
 - **Simple Idea**: The request says what the system needs to do and how it’ll help the company.
 - **Deeper Look**: 
-  - **Business Requirements**: This part lists what the system has to be able to do—like it needs to track sales or send emails fast (the must-have skills).
-  - **Business Value**: This part explains the goodies the company gets—like saving money, making customers happy, or working quicker.
+  - ==**Business Requirements**:== This part lists what the system has to be able to do—like it needs to track sales or send emails fast (the must-have skills).
+  - ==**Business Value**:== This part explains the goodies the company gets—like saving money, making customers happy, or working quicker.
   - It’s like saying, “The system has to do X, Y, Z, and in return, we’ll get these cool benefits.”
 
 **الترجمة بالعربي**:  
@@ -43,8 +43,8 @@ Here’s a deep yet simple explanation of the section titled "System Request" fr
 ### 3. Special Issues and Submission
 - **Simple Idea**: The request also has extra notes and gets sent to a team to decide if it’s worth it.
 - **Deeper Look**: 
-  - **Special Issues**: This is a catch-all spot in the document for other stuff to think about—like risks, weird problems, or anything else important to check before saying yes.
-  - **Submission**: Once it’s all written, the system request goes to an approval committee (the decision-makers) to look over.
+  - ==**Special Issues**:== This is a catch-all spot in the document for other stuff to think about—like risks, weird problems, or anything else important to check before saying yes.
+  - ==**Submission**:== Once it’s all written, the system request goes to an approval committee (the decision-makers) to look over.
   - It’s like adding a “P.S.” to your letter and handing it to the judges to see if they like your idea.
 
 **الترجمة بالعربي**:  

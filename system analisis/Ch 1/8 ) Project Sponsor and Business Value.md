@@ -2,8 +2,8 @@ Project Sponsor and Business Value
 - **Simple Idea**: The sponsor knows how the system helps the company, whether it’s easy-to-see benefits or just a gut feeling.
 - **Deeper Look**: 
   - They’ve got the smarts to figure out the **business value**—what the company gains from the system.
-  - **Tangible Value**: Stuff you can count and measure, like saving money on costs (e.g., cutting $10,000 in expenses).
-  - **Intangible Value**: Things you feel are good but can’t measure easily, like making customers happier or the company looking cooler.
+  - ==**Tangible Value**==: Stuff you can count and measure, like saving money on costs (e.g., cutting $10,000 in expenses).
+  - ==**Intangible Value**:== Things you feel are good but can’t measure easily, like making customers happier or the company looking cooler.
   - They’re like the one who says, “This is worth it,” even if some benefits are hard to prove.
 
 **الترجمة بالعربي**:  

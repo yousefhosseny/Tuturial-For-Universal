@@ -5,8 +5,8 @@
 ### **Deeper Look**: 
   - **Importance of Ethics**:
     - You’ll face ethical choices all the time in your career.
-    - Acting unethical hurts relationships—people won’t trust you, and business gets tough.
-    - It cuts teamwork, loyalty, and how good your work is.
+    - Acting unethical hurts ==relationships==—people won’t trust you, and business gets tough.
+    - It cuts ==teamwork==, ==loyalty==, and how good your work is.
     - Laws can’t always force people to be ethical—sometimes it’s up to you.
   - It’s like baking: if you sneak bad eggs, no one eats the cake, and your rep tanks.
 

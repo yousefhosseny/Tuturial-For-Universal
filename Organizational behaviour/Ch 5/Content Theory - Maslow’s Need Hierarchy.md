@@ -2,11 +2,11 @@
 
 **Explanation**: Maslow says you’ve got five needs, like a ladder:
 
-1. Basic (food, air),
-2. Safety (security),
-3. Belonging (friends),
-4. Esteem (respect),
-5. Self-Actualization (being your best self).  
+1. ==Basic (food, air),==
+2. ==Safety (security),==
+3. ==Belonging (friends),==
+4. ==Esteem (respect),==
+5. ==Self-Actualization (being your best self).==  
     You climb up—once one’s met, you chase the next.
 
 **Deeper Bit**: It’s like a video game. You don’t fight the boss (self-actualization) until you’ve got health (basic) and armor (safety). At work, if you’re broke, you don’t care about praise—you need cash first. Managers gotta match the level you’re on.

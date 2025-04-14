@@ -3,9 +3,9 @@
 **Explanation**: To motivate with Maslow:
 
 - Look past pay—people want more than money, like respect or growth.
-- Boost esteem (praise them) and self-actualization (let them shine).
-- Know met needs don’t push anymore—full belly doesn’t crave food.
-- Guess their needs right—don’t offer hugs to someone needing cash.
+- ==Boost esteem== (praise them) and self-actualization (let them shine).
+- ==Know met needs don’t push anymore==—full belly doesn’t crave food.
+- ==Guess their needs right==—don’t offer hugs to someone needing cash.
 
 **Deeper Bit**: It’s like feeding a plant. Money waters the roots, but esteem and growth make it bloom. If you overwater a full pot (met need), it’s useless—figure out what’s dry. Misread it, and you’re pouring water on rocks.
 

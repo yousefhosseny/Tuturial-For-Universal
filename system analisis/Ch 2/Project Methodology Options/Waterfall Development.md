@@ -2,10 +2,10 @@
 
 - **Simple Idea**: Waterfall is doing one step at a time, like a straight line from start to finish.
 - **Deeper Look**:
-    - In **Waterfall Development**, you go from one phase (like planning) to the next (like building) in order—no skipping or jumping back.
+    - In **Waterfall Development**, you go from ==one phase== (like planning) ==to the next== (like building) in order—==no skipping or jumping back.==
     - You make big deliverables—like hundreds of pages of plans—before moving on.
-    - **Advantages**: You figure out everything you need early, and changes later are rare, so it’s stable.
-    - **Disadvantages**: You have to plan every detail before coding, which takes a long time.
+    - **Advantages**: You figure out everything you need early, and ==changes later are rare==, so it’s stable.
+    - **Disadvantages**: You have to plan every detail before coding, which ==takes a long time.==
     - It’s like writing a whole book before printing it—thorough but slow.
 
 **الترجمة بالعربي**:

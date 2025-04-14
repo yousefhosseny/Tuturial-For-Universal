@@ -3,7 +3,7 @@ Here’s a deep yet simple explanation of the section titled "Feasibility Analys
 ---
 
 ### 1. What is Feasibility Analysis?
-- **Simple Idea**: Feasibility analysis is like a check-up to see if a project is worth doing and what risks to watch out for.
+- **Simple Idea**: Feasibility analysis is like a check-up to see if a project is ==worth doing== and what ==risks to watch out== for.
 - **Deeper Look**: 
   - It helps the company decide, “Should we go ahead with this project or not?”—like a green light or red light.
   - It also points out the big risks—like things that could go wrong—that need to be handled if the project gets the okay.
@@ -17,7 +17,7 @@ Here’s a deep yet simple explanation of the section titled "Feasibility Analys
   - فكر فيه زي ما تختبر الميه قبل ما تقفز: هل آمن، وإيه ممكن يعطلنا؟
 
 **شرح بسيط بالعربي**:  
-تحليل الجدوى هو فحص يقول لنا لو المشروع كويس نعمله وإيه المشاكل اللي ممكن تحصل.
+تحليل الجدوى هو فحص ==يقول لنا لو المشروع كويس نعمله== ==وإيه المشاكل اللي ممكن تحصل.==
 
 ---
 
@@ -25,9 +25,9 @@ Here’s a deep yet simple explanation of the section titled "Feasibility Analys
 - **Simple Idea**: There are three main checks—tech, money, and people—to see if the project can work.
 - **Deeper Look**: 
   - Every company does feasibility analysis its own way, but most look at three things:
-    1. **Technical Feasibility**: Can we build it with our tech skills?
-    2. **Economic Feasibility**: Does it make sense money-wise?
-    3. **Organizational Feasibility**: Will our team and company handle it okay?
+    1. ==**Technical Feasibility**==: Can we build it with our tech skills?
+    2. ==**Economic Feasibility**==: Does it make sense money-wise?
+    3. ==**Organizational Feasibility**:== Will our team and company handle it okay?
   - They put all these answers together in a **feasibility study** (a report) and send it to the approval committee at the end of the planning phase.
   - It’s like grading a project on three tests before deciding to start it.
 

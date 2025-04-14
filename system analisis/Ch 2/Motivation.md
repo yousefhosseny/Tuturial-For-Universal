@@ -2,8 +2,8 @@
 
 - **Simple Idea**: To keep people excited about work, use money carefully but focus more on feel-good rewards.
 - **Deeper Look**:
-    - **Use monetary rewards cautiously**: Cash bonuses can help, but they’re not everything—overdoing it might make people care only about money.
-    - **Use intrinsic rewards**: These are things that make work fun or meaningful without cash—like **recognition** (a shoutout), **achievement** (finishing something cool), **the work itself** (enjoying the task), **responsibility** (being trusted), **advancement** (moving up), and **chance to learn new skills** (growing smarter).
+    - ==**Use monetary rewards cautiously**:== Cash bonuses can help, but they’re not everything—overdoing it might make people care only about money.
+    - ==**Use intrinsic rewards**:== These are things that make work fun or meaningful without cash—like **recognition** (a shoutout), **achievement** (finishing something cool), **the work itself** (enjoying the task), **responsibility** (being trusted), **advancement** (moving up), and **chance to learn new skills** (growing smarter).
     - It’s like motivating a kid: a little candy is fine, but praising their drawing or letting them lead feels better.
 
 **الترجمة بالعربي**:

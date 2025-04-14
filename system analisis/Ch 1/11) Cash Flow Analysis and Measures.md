@@ -33,8 +33,8 @@ Here’s a deep yet simple explanation of the section titled "Cash Flow Analysis
 - **الفكرة البسيطة**: فيه طرق نشوف بيها لو المشروع يستاهل، زي حساب الربح أو متى بيبطل يخسر.
 - **شرح أعمق**: 
   - طريقتين رئيسيتين:
-    1. **العائد على الاستثمار (ROI)**: دي معادلة: ROI = (إجمالي الفوايد – إجمالي التكاليف) / إجمالي التكاليف. بتقولك قد إيه ربحت مقارنة باللي صرفته—زي لو صرفت 100 دولار وجبت 150، الـ ROI بيبقى 50%.
-    2. **نقطة التعادل (BEP)**: دي لما المشروع يبطل يكلف أكتر مما بيجيب—زي لما كشك الليمون يسدد تكلفة الليمون من المبيعات.
+    1. ==**العائد على الاستثمار (ROI)**:== دي معادلة: ROI = (إجمالي الفوايد – إجمالي التكاليف) / إجمالي التكاليف. بتقولك قد إيه ربحت مقارنة باللي صرفته—زي لو صرفت 100 دولار وجبت 150، الـ ROI بيبقى 50%.
+    2. ==**نقطة التعادل (BEP)**:== دي لما المشروع يبطل يكلف أكتر مما بيجيب—زي لما كشك الليمون يسدد تكلفة الليمون من المبيعات.
   - زي ما تشوف لو رهان كان يستاهل: كسبت قد إيه، وامتى بطلت تخسر.
 
 **شرح بسيط بالعربي**:  
@@ -45,8 +45,8 @@ Here’s a deep yet simple explanation of the section titled "Cash Flow Analysis
 ### 3. Discounted Cash Flow Technique
 - **Simple Idea**: This method looks at money’s value today, not just later, to see if the project’s a good deal.
 - **Deeper Look**: 
-  - **Discounted Cash Flows**: It adjusts all the money coming in and going out over time to what it’s worth in today’s dollars—because $100 in five years isn’t as good as $100 now (thanks to inflation and time).
-  - **Net Present Value (NPV)**: This is the difference between the present value of benefits and costs—if it’s positive, the project’s worth it; if negative, it’s a loss.
+  - ==**Discounted Cash Flows**:== It adjusts all the money coming in and going out over time to what it’s worth in today’s dollars—because $100 in five years isn’t as good as $100 now (thanks to inflation and time).
+  - ==**Net Present Value (NPV)**:== This is the difference between the present value of benefits and costs—if it’s positive, the project’s worth it; if negative, it’s a loss.
   - It’s like asking, “If I had all this money now instead of later, would it still be a win?”
 
 **الترجمة بالعربي**:  

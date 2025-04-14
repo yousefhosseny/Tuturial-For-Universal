@@ -2,8 +2,8 @@
 
 - **Simple Idea**: Don’t let the project grow too big after starting—it messes up time and money.
 - **Deeper Look**:
-    - **Scope creep**: When people keep adding stuff after the project starts—most common reason for delays and overspending.
-    - **Project manager** should only let super-important changes in once it’s underway.
+    - ==**Scope creep**:== When people keep adding stuff after the project starts—most common reason for delays and overspending.
+    - ==**Project manager**== should only let super-important changes in once it’s underway.
     - It’s like agreeing on a small cake, then someone keeps adding layers—takes longer and costs more.
 
 **الترجمة بالعربي**:

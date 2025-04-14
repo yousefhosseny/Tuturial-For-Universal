@@ -5,7 +5,7 @@ A proactive personality means you don’t just sit back—you make things happen
 - Better job performance (you shine),
 - More job satisfaction (you’re happy),
 - Stronger commitment (you stick around),
-- Being entrepreneurial (you start new things).
+- ==Being entrepreneurial== (you start new things).
 
 ### **Deeper Bit**:
 It’s like being the driver, not the passenger. You see a chance—like a new project—and grab it. At work, this makes you stand out because you’re not waiting for someone to tell you what to do—you’re already doing it.

@@ -4,10 +4,10 @@
 
 A **CRT display** was the most common type of computer monitor for many years. It works by using a beam of **electrons** to create images on a screen.
 
-1. Inside the CRT, there is a **cathode (electron gun)** that fires electrons toward the screen.
-2. The screen is coated with **phosphor**, a special material that **glows** when hit by electrons.
+1. Inside the CRT, there is a ==**cathode (electron gun)**== that fires electrons toward the screen.
+2. The screen is coated with **==phosphor==**, a special material that **glows** when hit by electrons.
 3. The position of the electron beam is controlled by **deflection plates** that move it along the **X (horizontal) and Y (vertical) axes**.
-4. The computer sends digital data to a **digital-to-analog converter (DAC)**, which translates the information into electrical signals that move the beam to the correct location.
+4. The computer sends digital data to a ==**digital-to-analog converter (DAC)**==, which translates the information into electrical signals that move the beam to the correct location.
 
 # **التوضيح بالعربي**
 

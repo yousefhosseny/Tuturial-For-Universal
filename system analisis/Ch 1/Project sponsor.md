@@ -1,10 +1,10 @@
 
 ### 1. Who is the Project Sponsor and Their Role
-- **Simple Idea**: The project sponsor is someone who cares about the system succeeding and helps guide it.
+- **Simple Idea**: The project sponsor is someone who ==cares== about the system succeeding and ==helps guide== it.
 - **Deeper Look**: 
-  - They’re a person (or group) who’s invested in the system doing well—like they want it to help the company big time.
+  - They’re a ==person (or group)== who’s invested in the system doing well—like they want it to help the company big time.
   - They stick around through the whole SDLC (planning, analysis, design, implementation) to keep the project on track from the business side—like making sure it’s useful for the company, not just a cool toy.
-  - They’re the main person the project team talks to—like the go-between for the team and the business.
+  - They’re the main person the project team talks to—like ==the go-between for the team and the business==.
   - Think of them as a guide who’s cheering for the project and steering it right.
 
 **الترجمة بالعربي**:  
@@ -21,7 +21,7 @@
 ---
 
 ### 2. How the Sponsor Depends on Project Size
-- **Simple Idea**: The bigger the project, the bigger the sponsor needs to be.
+- **Simple Idea**: ==The bigger the project, the bigger the sponsor== needs to be.
 - **Deeper Look**: 
   - The type of sponsor changes based on how large or complicated the project is—like a small project might just need a manager, but a huge one might need a top boss or a whole group.
   - The size (how many people it affects) or scope (how much it changes) decides who’s got enough power or interest to sponsor it.

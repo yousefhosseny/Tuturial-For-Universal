@@ -1,6 +1,6 @@
 # **4. User Interface (GUI – Graphical User Interface)**
 
-Most people interact with computers through visual elements instead of typing commands. This is called a **Graphical User Interface (GUI).**
+Most people ==interact with computers== through visual elements ==instead of typing commands==. This is called a **Graphical User Interface (GUI).**
 
 ## **واجهات المستخدم الرسومية (GUI)**
 

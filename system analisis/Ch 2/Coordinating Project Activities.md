@@ -18,22 +18,3 @@
 أدوات CASE برامج بتسهل الشغل زي التخطيط والكود، زي خلاط يساعدك في الكيكة.
 
 ---
-
-### 4. Coordinating Project Activities (Continued): Standards and Documentation
-
-- **Simple Idea**: Set rules and keep a project notebook to stay organized.
-- **Deeper Look**:
-    - **Standards**: Rules like how to name files, forms to show goals hit, and coding tips—keeps everything consistent.
-    - **Documentation**: A project binder (big folder) with a table of contents, updated all the time—tracks everything.
-    - It’s like a recipe book with rules (use “cake_v1”) and notes you keep adding to.
-
-**الترجمة بالعربي**:
-
-- **الفكرة البسيطة**: حدد قواعد وحافظ على دفتر المشروع عشان تبقى منظم.
-- **شرح أعمق**:
-    - **المعايير**: قواعد زي إزاي تسمي الملفات، استمارات توضح الأهداف اللي وصلتلها، ونصايح للكود—بتخلّي كل حاجة متظبطة.
-    - **التوثيق**: مجلد المشروع (فايل كبير) مع فهرس، بيتحدث على طول—بيتابع كل حاجة.
-    - زي كتاب وصفات بقواعد (سمّي “كيكة_نسخة1”) وملاحظات بتضيفلها دايمًا.
-
-**شرح بسيط بالعربي**:  
-ضع قواعد للملفات ودفتر للمشروع تكتب فيه كل حاجة، زي كتاب وصفة بترتيبه وتحدثه.

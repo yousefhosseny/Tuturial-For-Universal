@@ -4,7 +4,7 @@
 Ethical dilemmas are tough spots where no choice feels totally right.
 ### - **Deeper Look**:
 
-  - **Ethical dilemmas** have two options, but neither fixes everything perfectly, and there’s no clear “good” answer.
+  - **Ethical dilemmas** have two options, but neither fixes everything perfectly, and there’s ==no clear “good”== answer.
   - It’s not just right vs. wrong—sometimes both feel off.
   - Puts you in a tricky, uncomfortable spot.
   - It’s like choosing between a burnt cake or a raw one—neither’s great, and you’re stuck.
